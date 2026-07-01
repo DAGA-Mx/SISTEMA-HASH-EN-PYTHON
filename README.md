@@ -5,7 +5,7 @@ Un sistema de deduplicación de archivos de alto rendimiento diseñado en Python
 ---
 
 ## Integrantes del Equipo / Autor
-* **Autores**:
+* **Autor**:
 * **Dilan Alejandro González Alatriste / Estudiante**
 * **Materia**: Estructuras de Datos y sus Aplicaciones / Gestión de Almacenamiento
 
